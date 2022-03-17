@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Worker example: image decoding</title>
+    <input type="url" id="image-url" list="image-list">
+    <datalist id="image-list">
+      <option value="https://html.spec.whatwg.org/images/drawImage.png">
